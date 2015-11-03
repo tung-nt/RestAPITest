@@ -1,7 +1,7 @@
 ﻿#GoEuro API Test result. 
 > Test data with ~6k cities
 
-8 cities 'London              ' found. Writen to cities.csv!
+8 cities 'London              ' found. Writen to cities.csv!  
 5 cities 'Wellington          ' found. Writen to cities.csv!
 8 cities 'Winchester          ' found. Writen to cities.csv!
  No city 'Itajaí              ' found!
