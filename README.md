@@ -1,10 +1,11 @@
 ﻿#GoEuro API Test.  
 > Use Retrofit for Rest Client  
 > Use Lombok for Getter/Setter  
-> MavenBuild: mvn compile assembly:single  
-
+#MavenBuild  
+> mvn compile assembly:single  
+#Execute
+> java -jar GoEuroTest.jar "CITY_NAME"  
 #Result  
-> Execute: java -jar GoEuroTest.jar "CITY_NAME"  
 > Test data with ~6k cities  
 
 8 cities 'London              ' found. Writen to cities.csv!  
