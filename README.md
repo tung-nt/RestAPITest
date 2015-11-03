@@ -1,5 +1,6 @@
 ﻿#GoEuro API Test result. 
 > Test data with ~6k cities
+> How to maven build: mvn compile assembly:single
 
 8 cities 'London              ' found. Writen to cities.csv!  
 5 cities 'Wellington          ' found. Writen to cities.csv!  
