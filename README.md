@@ -4,6 +4,7 @@
 > MavenBuild: mvn compile assembly:single  
 
 #Result  
+> Execute: java -jar GoEuroTest.jar "CITY_NAME"  
 > Test data with ~6k cities  
 
 8 cities 'London              ' found. Writen to cities.csv!  
